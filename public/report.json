@@ -1,0 +1,420 @@
+{
+  "capturedAt": "2026-11-03T22:06:57.881Z",
+  "transport": "Direct main document; public GET-only image/API relays",
+  "relayRequests": [
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/LanguageIcon.svg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/bri_logo_blue.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://qlolabbri.com/_next/image?url=https%3A%2F%2Fs3.bri.co.id%2Fwdp-qllapp%2Fassets%2Fimages%2Fbri_logo_blue.png&w=128&q=75",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/LOGIN/0",
+      "provider": "r.jina.ai",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://qlola.bri.co.id/api/ui/v1.1.0/public/userInterface/ID",
+      "provider": "r.jina.ai",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/icon/icon_information.svg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/qlola_by_bri.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_phone.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_mail.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/Footer-bg-new.jpg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/eform/eform_banner_7.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/TrackingLogin.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/GiroLogin.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/bg_baru_2.jpg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "desktop",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a4e147a8-0802-48e2-8d41-87fad4efd943",
+      "error": "Relay HTTP 404"
+    },
+    {
+      "device": "desktop",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/84ed6d80-8805-43cd-8819-8bf42064cfeb",
+      "error": "Relay HTTP 404"
+    },
+    {
+      "device": "desktop",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/b39e0ee9-8749-4341-b3a4-7d11ccc85a17",
+      "error": "Relay HTTP 404"
+    },
+    {
+      "device": "desktop",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a1a10e02-8b1a-496f-a1e0-9604f392add3",
+      "error": "Relay HTTP 404"
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/bri_logo_blue.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://qlolabbri.com/_next/image?url=https%3A%2F%2Fs3.bri.co.id%2Fwdp-qllapp%2Fassets%2Fimages%2Fbri_logo_blue.png&w=128&q=75",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/LanguageIcon.svg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/LOGIN/0",
+      "provider": "r.jina.ai",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://qlola.bri.co.id/api/ui/v1.1.0/public/userInterface/ID",
+      "provider": "r.jina.ai",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/qlola_by_bri.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/icon/icon_information.svg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/GiroLogin.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/TrackingLogin.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_phone.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_mail.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/bg_baru_2.jpg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/Footer-bg-new.jpg",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://s3.bri.co.id/wdp-qllapp/assets/images/eform/eform_banner_7.png",
+      "provider": "images.weserv.nl",
+      "status": 200
+    },
+    {
+      "device": "mobile",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a4e147a8-0802-48e2-8d41-87fad4efd943",
+      "error": "Relay HTTP 404"
+    },
+    {
+      "device": "mobile",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/b39e0ee9-8749-4341-b3a4-7d11ccc85a17",
+      "error": "Relay HTTP 404"
+    },
+    {
+      "device": "mobile",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/84ed6d80-8805-43cd-8819-8bf42064cfeb",
+      "error": "Relay HTTP 404"
+    },
+    {
+      "device": "mobile",
+      "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a1a10e02-8b1a-496f-a1e0-9604f392add3",
+      "error": "Relay HTTP 404"
+    }
+  ],
+  "reports": [
+    {
+      "device": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000,
+        "mobile": false
+      },
+      "mode": "live-javascript-with-public-asset-api-relays",
+      "status": 200,
+      "stableSamples": 3,
+      "title": "QLola by BRI",
+      "url": "https://qlolabbri.com/token",
+      "height": 2780,
+      "width": 1440,
+      "fontStatus": "loaded",
+      "visibleImages": [
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/bri_logo_blue.png",
+          "loaded": true,
+          "width": 227,
+          "height": 80
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/qlola_by_bri.png",
+          "loaded": true,
+          "width": 1312,
+          "height": 474
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/icon/icon_information.svg",
+          "loaded": true,
+          "width": 20,
+          "height": 21
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/eform/eform_banner_7.png",
+          "loaded": true,
+          "width": 408,
+          "height": 200
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/GiroLogin.png",
+          "loaded": true,
+          "width": 408,
+          "height": 200
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/TrackingLogin.png",
+          "loaded": true,
+          "width": 372,
+          "height": 200
+        },
+        {
+          "src": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a4e147a8-0802-48e2-8d41-87fad4efd943",
+          "loaded": false,
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/b39e0ee9-8749-4341-b3a4-7d11ccc85a17",
+          "loaded": false,
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/84ed6d80-8805-43cd-8819-8bf42064cfeb",
+          "loaded": false,
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_phone.png",
+          "loaded": true,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_mail.png",
+          "loaded": true,
+          "width": 16,
+          "height": 12
+        }
+      ],
+      "bodyText": "Integrated Corporate Solution\nLOGIN\nCorporate ID\nUser ID\nKata Sandi\nLUPA KATA SANDI?\nMasuk\n\nRegistrasi Online\n\nDapatkan akses ke QLola by BRI dengan mendaftarkan perusahaan Anda pada fitur-fitur berikut\n\nCash Management\n\nLayanan Cash Management System atau Internet Banking yang memungkinkan Perusahaan memperoleh informasi mengenai rekening, manajemen likuiditas, serta transaksi swalayan secara online real-time tanpa batasan tempat dan waktu. Ditujukan bagi Perusahaan yang memerlukan solusi perbankan yang mudah digunakan, modern, aman, dan dinamis.\n\nBuat Akun\n\nGiro BRI\n\nSebagai salah satu sarana penunjang kelangsungan bisnis usaha Anda. Kami hadir dengan menawarkan kemudahan transaksi bisnis melalui Giro BRI. Giro BRI adalah jenis simpanan dalam berbagai mata uang yang dapat menjadi solusi bisnis bagi Anda.\n\nRegistrasi\nStatus Registrasi Giro\n\nTracking\n\nNikmati kemudahan layanan tracking untuk mengetahui informasi terkini mengenai status pengajuan produk atau layanan perbankan Anda.\n\nTracking\n\nBerita Terkini\n\nDapatkan informasi dan event-event terkini seputar QLola\n\nKANTOR PUSAT\nPT Bank Rakyat Indonesia (Persero) Tbk.\nJl. Jenderal Sudirman Kav. 44-46, Jakarta, 10210, Indonesia\nHUBUNGI KAMI\n1500001\nQLola@bri.co.id\nBANTUAN\nPusat Bantuan\nKebijakan Privasi\nPT Bank Rakyat Indonesia (Persero) Tbk berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK) dan Bank Indonesia (BI), serta merupakan peserta penjaminan simpanan yang terdaftar pada Lembaga Penjamin Simpanan (LPS). LPS menjamin simpanan hingga Rp2.000.000.000,- (dua miliar rupiah) per nasabah, per bank. Informasi lebih lanjut mengenai tingkat bunga penjaminan simpanan dan ketentuan lainnya dapat diakses melalui situs resmi LPS di https://apps.lps.go.id/.\n© 2024 PT Bank Rakyat Indonesia (Persero) Tbk. | All Rights Reserved.",
+      "backgroundImages": [
+        "https://s3.bri.co.id/wdp-qllapp/assets/images/bg_baru_2.jpg",
+        "https://s3.bri.co.id/wdp-qllapp/assets/images/Footer-bg-new.jpg"
+      ],
+      "failures": [
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a4e147a8-0802-48e2-8d41-87fad4efd943",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/84ed6d80-8805-43cd-8819-8bf42064cfeb",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/b39e0ee9-8749-4341-b3a4-7d11ccc85a17",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a1a10e02-8b1a-496f-a1e0-9604f392add3",
+          "error": "net::ERR_FAILED"
+        }
+      ],
+      "screenshot": "public/references/reference-proxy-desktop.png"
+    },
+    {
+      "device": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844,
+        "mobile": true
+      },
+      "mode": "live-javascript-with-public-asset-api-relays",
+      "status": 200,
+      "stableSamples": 3,
+      "title": "QLola by BRI",
+      "url": "https://qlolabbri.com/token",
+      "height": 4303,
+      "width": 390,
+      "fontStatus": "loaded",
+      "visibleImages": [
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/bri_logo_blue.png",
+          "loaded": true,
+          "width": 227,
+          "height": 80
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/qlola_by_bri.png",
+          "loaded": true,
+          "width": 1312,
+          "height": 474
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/icon/icon_information.svg",
+          "loaded": true,
+          "width": 20,
+          "height": 21
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/eform/eform_banner_7.png",
+          "loaded": true,
+          "width": 408,
+          "height": 200
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/GiroLogin.png",
+          "loaded": true,
+          "width": 408,
+          "height": 200
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/login/TrackingLogin.png",
+          "loaded": true,
+          "width": 372,
+          "height": 200
+        },
+        {
+          "src": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a4e147a8-0802-48e2-8d41-87fad4efd943",
+          "loaded": false,
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_phone.png",
+          "loaded": true,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "src": "https://s3.bri.co.id/wdp-qllapp/assets/images/icon_mail.png",
+          "loaded": true,
+          "width": 16,
+          "height": 12
+        }
+      ],
+      "bodyText": "Integrated Corporate Solution\nLOGIN\nCorporate ID\nUser ID\nKata Sandi\nLUPA KATA SANDI?\nMasuk\n\nRegistrasi Online\n\nDapatkan akses ke QLola by BRI dengan mendaftarkan perusahaan Anda pada fitur-fitur berikut\n\nCash Management\n\nLayanan Cash Management System atau Internet Banking yang memungkinkan Perusahaan memperoleh informasi mengenai rekening, manajemen likuiditas, serta transaksi swalayan secara online real-time tanpa batasan tempat dan waktu. Ditujukan bagi Perusahaan yang memerlukan solusi perbankan yang mudah digunakan, modern, aman, dan dinamis.\n\nBuat Akun\n\nGiro BRI\n\nSebagai salah satu sarana penunjang kelangsungan bisnis usaha Anda. Kami hadir dengan menawarkan kemudahan transaksi bisnis melalui Giro BRI. Giro BRI adalah jenis simpanan dalam berbagai mata uang yang dapat menjadi solusi bisnis bagi Anda.\n\nRegistrasi\nStatus Registrasi Giro\n\nTracking\n\nNikmati kemudahan layanan tracking untuk mengetahui informasi terkini mengenai status pengajuan produk atau layanan perbankan Anda.\n\nTracking\n\nBerita Terkini\n\nDapatkan informasi dan event-event terkini seputar QLola\n\nKANTOR PUSAT\nPT Bank Rakyat Indonesia (Persero) Tbk.\nJl. Jenderal Sudirman Kav. 44-46, Jakarta, 10210, Indonesia\nHUBUNGI KAMI\n1500001\nQLola@bri.co.id\nBANTUAN\nPusat Bantuan\nKebijakan Privasi\nPT Bank Rakyat Indonesia (Persero) Tbk berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK) dan Bank Indonesia (BI), serta merupakan peserta penjaminan simpanan yang terdaftar pada Lembaga Penjamin Simpanan (LPS). LPS menjamin simpanan hingga Rp2.000.000.000,- (dua miliar rupiah) per nasabah, per bank. Informasi lebih lanjut mengenai tingkat bunga penjaminan simpanan dan ketentuan lainnya dapat diakses melalui situs resmi LPS di https://apps.lps.go.id/.\n© 2024 PT Bank Rakyat Indonesia (Persero) Tbk. | All Rights Reserved.",
+      "backgroundImages": [
+        "https://s3.bri.co.id/wdp-qllapp/assets/images/bg_baru_2.jpg",
+        "https://s3.bri.co.id/wdp-qllapp/assets/images/Footer-bg-new.jpg"
+      ],
+      "failures": [
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a4e147a8-0802-48e2-8d41-87fad4efd943",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/b39e0ee9-8749-4341-b3a4-7d11ccc85a17",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/84ed6d80-8805-43cd-8819-8bf42064cfeb",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://qlola.bri.co.id/api/general/v2.0/public/banner/image/a1a10e02-8b1a-496f-a1e0-9604f392add3",
+          "error": "net::ERR_FAILED"
+        }
+      ],
+      "screenshot": "public/references/reference-proxy-mobile.png"
+    }
+  ]
+}

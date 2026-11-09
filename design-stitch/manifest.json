@@ -1,0 +1,67 @@
+{
+  "project": "qlolabbri-visual-review",
+  "scope": "Single-page conceptual desktop and mobile design handoff",
+  "identity": "PORTAL DEMO",
+  "imageGeneration": "Built-in imagegen tool, ui-mockup, opaque background",
+  "referenceLayoutWidths": {
+    "desktop": 1440,
+    "mobile": 390
+  },
+  "responsiveBreakpoint": 600,
+  "files": [
+    {
+      "stage": 1,
+      "file": "images/01-desktop-header-hero.png",
+      "prompt": "prompts/01-desktop-header-hero.txt",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1420421,
+      "sha256": "a1ec2c8aea5f03b6c07a521d63ad5348f0fa93006f84042cecde3ca0cd6d5a7a"
+    },
+    {
+      "stage": 2,
+      "file": "images/02-desktop-layanan-tracking.png",
+      "prompt": "prompts/02-desktop-layanan-tracking.txt",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1372682,
+      "sha256": "5114ef2778ff205096031fc57a2c0427286892a61106215e8dc3defb7fd4755d"
+    },
+    {
+      "stage": 3,
+      "file": "images/03-desktop-berita-footer.png",
+      "prompt": "prompts/03-desktop-berita-footer.txt",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1585337,
+      "sha256": "e56a5d05bf3684bd2da55c7c72f92f4f263e2d4ffbac209774d2e4e4301406d8"
+    },
+    {
+      "stage": 4,
+      "file": "images/04-mobile-header-hero.png",
+      "prompt": "prompts/04-mobile-header-hero.txt",
+      "width": 887,
+      "height": 1774,
+      "bytes": 1453466,
+      "sha256": "f941529fc30dce1e8c6bc84e73b87aeb4f06c1bd7d7c16945672a99d93e4de22"
+    },
+    {
+      "stage": 5,
+      "file": "images/05-mobile-layanan-tracking.png",
+      "prompt": "prompts/05-mobile-layanan-tracking.txt",
+      "width": 724,
+      "height": 2172,
+      "bytes": 1376350,
+      "sha256": "a8715c9638387d03cbbf0061835b81850016d6dd4e09b4a081db32f9eea4ceed"
+    },
+    {
+      "stage": 6,
+      "file": "images/06-mobile-berita-footer.png",
+      "prompt": "prompts/06-mobile-berita-footer.txt",
+      "width": 887,
+      "height": 1774,
+      "bytes": 1606804,
+      "sha256": "65263c958faf720698a8e6b360508662cf6020df5cec5fa3163e6dd19a6fe77b"
+    }
+  ]
+}

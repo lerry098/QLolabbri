@@ -1,0 +1,28 @@
+﻿:root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #fff;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+.demo-label {
+  position: fixed;
+  top: 12px;
+  right: 64px;
+  z-index: 10;
+  padding: 5px 9px;
+  border: 1px solid #ecd598;
+  border-radius: 4px;
+  color: #825d11;
+  background: #fff6dc;
+  font-size: 10px;
+  font-weight: 750;
+  letter-spacing: 1.2px;
+  pointer-events: none;
+}
+.canvas { min-height: 100vh; }
+.canvas picture { display: block; }
+.canvas img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
